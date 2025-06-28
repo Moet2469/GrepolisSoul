@@ -1,9 +1,9 @@
 GrepolisSoul
+
 Bot do grepolis.com
 
 ✨ Opis projektu
 Sprzedaję w pełni działający source code bota do Grepolis. Projekt jest autorski, rozbudowany i gotowy do konfiguracji oraz uruchomienia.
-Przestałem grać, więc niech bot znajdzie nowego właściciela!
 
 📦 Zawartość Bota
 Automatyczne uzupełnianie tokenów logowania podczas pierwszego uruchomienia.
@@ -60,16 +60,13 @@ Kod źródłowy można łatwo rozbudować o nowe funkcje.
 
 Na zamówienie (za dopłatą) mogę dodać wymagane funkcjonalności.
 
-🎥 Demo
-Film z działania bota mogę przesłać na Discord.
-W przyszłości planuję wrzucić prezentację na YouTube.
 
 💬 Kontakt
 Chcesz zobaczyć demo lub masz pytania?!
 
 Napisz na Discord!  #moet2496
 
-Stworzyłem bota samodzielnie i tylko ja z niego korzystałem. Nie gram już w Grepolis, więc niech projekt żyje dalej!
+
 
 [3](https://github.com/user-attachments/assets/f7541f4f-d2d6-4c48-9d5e-11fa74747d09)
 ![2](https://github.com/user-attachments/assets/b319915e-07fe-410e-ab20-6c03a624627d)
