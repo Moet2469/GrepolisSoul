@@ -65,7 +65,15 @@ Film z działania bota mogę przesłać na Discord.
 W przyszłości planuję wrzucić prezentację na YouTube.
 
 💬 Kontakt
-Chcesz zobaczyć demo lub masz pytania?
+Chcesz zobaczyć demo lub masz pytania?!
+
 Napisz na Discord!  #moet2496
 
 Stworzyłem bota samodzielnie i tylko ja z niego korzystałem. Nie gram już w Grepolis, więc niech projekt żyje dalej!
+
+[3](https://github.com/user-attachments/assets/f7541f4f-d2d6-4c48-9d5e-11fa74747d09)
+![2](https://github.com/user-attachments/assets/b319915e-07fe-410e-ab20-6c03a624627d)
+![1](https://github.com/user-attachments/assets/6061321f-d142-4a5d-b775-96c874d34003)
+![7](https://github.com/user-attachments/assets/091eafdb-c742-4579-8275-88bc60a95730)
+![5](https://github.com/user-attachments/assets/67a6c462-22ba-4051-81f6-c709197ef6a7)
+![4](https://github.com/user-attachments/assets/883b5719-08c6-480a-93b2-dac9755581cd)
