@@ -33,7 +33,7 @@ Automatyczna rotacja jednostek – 4 minuty przed atakiem wysyła wsparcie do na
 Pomocnik Discord
 Obsługa bota z telefonu – komendy na Discord:
 
-text
+
 ========================================
         **GrepoSoul DiscordBot - HELP**
 ========================================
